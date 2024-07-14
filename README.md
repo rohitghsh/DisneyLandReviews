@@ -6,7 +6,5 @@ The Disneyland Reviews Data Mining Project analyzed a large number of reviews of
 
 ## Data Source:
 We have got this dataset from the Kaggle website. Below is the link for the same:
+
 https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
-
-
-![image](https://github.com/user-attachments/assets/fb837d98-9fd1-4260-b7cc-7e5712a3ff2e)
